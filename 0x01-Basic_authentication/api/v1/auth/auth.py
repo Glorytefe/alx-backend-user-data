@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-""" 
+"""
 Authentication Module
 """
 from flask import request
